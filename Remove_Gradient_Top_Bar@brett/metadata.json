@@ -1,0 +1,12 @@
+{
+    "name": "Remove Gradient Top Bar", 
+    "description": "Removes the Gradient in the Top bar", 
+    "uuid": "Remove_Gradient_Top_Bar@brett", 
+    "shell-version": [
+        "3.18", 
+        "3.20", 
+        "3.22", 
+        "3.24", 
+        "3.26", 
+        "3.28"]
+}
